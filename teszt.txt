@@ -1,1 +1,3 @@
 teszt
+
+Ez csak egy kis gyakorlás, semmi gond nem lehet belőle :)
